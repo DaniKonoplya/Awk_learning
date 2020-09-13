@@ -1,0 +1,4 @@
+member:john:1:22
+member:jane:0.5:33
+member:pratyush:0.5:17
+member:jing:1:27

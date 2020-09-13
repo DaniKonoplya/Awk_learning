@@ -1,0 +1,4 @@
+payment:jane:33
+payment:pratyush:17
+bought:john:60
+payback:john:50

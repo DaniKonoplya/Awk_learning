@@ -1,0 +1,1 @@
+awk '!visited[$0]++' input.txt
